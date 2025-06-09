@@ -1,4 +1,4 @@
-# SQL Data Warehouse Project (insightsbyamanda.github.io.)
+# SQL Data Warehouse Project
 Welcome to the **SQL Data Warehouse Project**, a hands-on, end-to-end data engineering and analytics project built using **SQL Server Management Studio (SSMS)**.
 
 This project is a structured, practical learning experience inspired by the *DataWithBaraa* course. It demonstrates the end-to-end process of designing a modern data warehouse, building ETL pipelines, and delivering business-ready analytics using the **Medallion Architecture** (Bronze, Silver, and Gold layers).

@@ -8,9 +8,9 @@ This project is a structured, practical learning experience inspired by the *Dat
 
 The data architecture follows a layered Medallion design:
 
-- 🔸 **Bronze Layer:** Raw data is ingested from CSV files into SQL Server tables with no transformation.  
-- ⚪ **Silver Layer:** Data cleansing, validation, and transformation take place here to prepare it for analytics.  
-- 🔶 **Gold Layer:** Clean, business-ready data is modeled into a **Star Schema** and exposed for reporting and insights.
+- **Bronze Layer:** Raw data is ingested from CSV files into SQL Server tables with no transformation.  
+- **Silver Layer:** Data cleansing, validation, and transformation take place here to prepare it for analytics.  
+- **Gold Layer:** Clean, business-ready data is modeled into a **Star Schema** and exposed for reporting and insights.
 
 ---
 

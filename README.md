@@ -4,7 +4,7 @@ Welcome to the **SQL Data Warehouse Project**, a hands-on, end-to-end data engin
 This project is a structured, practical learning experience inspired by the *DataWithBaraa* course. It demonstrates the end-to-end process of designing a modern data warehouse, building ETL pipelines, and delivering business-ready analytics using the **Medallion Architecture** (Bronze, Silver, and Gold layers).
 
 ---
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The data architecture follows a layered Medallion design:
 
@@ -14,7 +14,7 @@ The data architecture follows a layered Medallion design:
 
 ---
 
-## 🧰 Tools & Resources Used
+##  Tools & Resources Used
 
 - **SQL Server Management Studio (SSMS)** – For database development and management  
 - **CSV Files** – Source datasets simulating ERP and CRM systems  
@@ -23,8 +23,8 @@ The data architecture follows a layered Medallion design:
 
 ---
 
-## 🙋 About Me
+##  About Me
 
-Hi! I’m Amanda — a data professional with a growing passion for designing scalable data systems and uncovering insights through SQL and BI tools. This project is part of my journey to develop deeper technical skills in **data engineering**, **ETL development**, and **analytics**.
+Hi! I’m Amanda,  a data professional with a growing passion for designing scalable data systems and uncovering insights through SQL and BI tools. This project is part of my journey to develop deeper technical skills in **data engineering**, **ETL development**, and **analytics**.
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/amanda-enyiigbokwe/) and grow together in the data space!
